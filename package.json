@@ -1,0 +1,27 @@
+{
+  "name": "mind-game",
+  "version": "1.0.0",
+  "description": "It's a simple psychological game.",
+  "bin": {
+    "mind-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tam-03/mind-game.git"
+  },
+  "keywords": [
+    "mind-game"
+  ],
+  "author": "Takumi Tamura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tam-03/mind-game/issues"
+  },
+  "homepage": "https://github.com/tam-03/mind-game#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
